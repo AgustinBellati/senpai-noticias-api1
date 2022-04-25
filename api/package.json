@@ -1,0 +1,24 @@
+{
+  "name": "pruebapi",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinBellati/senpai-noticias-api.git"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgustinBellati/senpai-noticias-api/issues"
+  },
+  "homepage": "https://github.com/AgustinBellati/senpai-noticias-api#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  }
+}
